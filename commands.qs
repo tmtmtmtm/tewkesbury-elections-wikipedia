@@ -102,12 +102,7 @@ LAST	Len	"Kelvin Tustin"
 LAST	Den	"UK election candidate"
 LAST	P106	Q19772737
 LAST	P3602	Q918503	P768	Q987959	P102	Q9630	P1111	13665	P1352	3	S4656	"https://en.wikipedia.org/wiki/Tewkesbury_(UK_Parliament_constituency)"
-CREATE
-LAST	P31	Q5
-LAST	Len	"Lara Chaplin"
-LAST	Den	"UK election candidate"
-LAST	P106	Q19772737
-LAST	P3602	Q30173038	P768	Q987959	P102	Q9630	P1111	9310	P1352	3	S4656	"https://en.wikipedia.org/wiki/Tewkesbury_(UK_Parliament_constituency)"
+Q76363862	P3602	Q30173038	P768	Q987959	P102	Q9630	P1111	9310	P1352	3	S4656	"https://en.wikipedia.org/wiki/Tewkesbury_(UK_Parliament_constituency)"
 Q480148	P3602	Q590740	P768	Q987959	P102	Q9626	P1111	20830	P1352	1	S4656	"https://en.wikipedia.org/wiki/Tewkesbury_(UK_Parliament_constituency)"
 Q480148	P3602	Q30173038	P768	Q987959	P102	Q9626	P1111	35728	P1352	1	S4656	"https://en.wikipedia.org/wiki/Tewkesbury_(UK_Parliament_constituency)"
 Q480148	P3602	Q25052149	P768	Q987959	P102	Q9626	P1111	35448	P1352	1	S4656	"https://en.wikipedia.org/wiki/Tewkesbury_(UK_Parliament_constituency)"
