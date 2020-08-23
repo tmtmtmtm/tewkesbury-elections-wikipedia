@@ -17,6 +17,9 @@
   "new_person_description": "UK election candidate",
   "mapping": {
     "election": {
+      "By-election, 12 Jul 1880": "Q98582283",
+      "By-election, 20 March 1866": "Q98582284",
+      "By-election, 8 March 1859": "Q98582285"
     },
     "party" : {
     }
